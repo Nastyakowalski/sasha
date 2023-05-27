@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+p{
+    background-color:cyan;
+    border: rgb(235, 188, 0);
+}
+footer{
+    background-color: cyan;
+}
+header{
+    background-color:cyan;
+}
